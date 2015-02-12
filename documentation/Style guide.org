@@ -159,14 +159,3 @@ It is correct to assume that one can put punctuation marks in italics when the p
 
 Since the use of italics already expresses a strong semantic connotation which prevents misunderstanding, we tend to follow the typographic convention of always including punctuation within italics, for sake of aesthetics. There may be a few exceptions, though.
 
-Use:
-
-#+BEGIN_EXAMPLE
-The Editor of /Hinduism Today,/
-#+END_EXAMPLE
-
-and not 
-
-#+BEGIN_EXAMPLE
-The Editor of /Hinduism Today/,
-#+END_EXAMPLE
