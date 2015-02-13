@@ -4,13 +4,15 @@
 Example:
 
 #+BEGIN_EXAMPLE
+
   :KEYWORDS: master-disciple relationship, spiritual practice
+  
 #+END_EXAMPLE
 
 
 ** Editorial keywords (not referring to the Author's work)
 
-- [to be added]
+- [to be added at a later date]
 
 
 ** Important: keywords as index
