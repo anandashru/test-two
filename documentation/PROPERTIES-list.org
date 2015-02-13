@@ -16,9 +16,11 @@ Unique indicator for a given Unit, pointing to the corresponding bibliographic r
 ***** Example
 
 #+BEGIN_EXAMPLE
+
   :PROPERTIES:
   :genre: poem
   :keywords:
   :cite-key: AK:1
   :END:
+  
 #+END_EXAMPLE
